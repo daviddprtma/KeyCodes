@@ -16,7 +16,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](keycode.png)
 
 This project telling you about how to make a simple keycode which whatever keyboard that you want to press and see the result of keycode according to your press fastly.
 
